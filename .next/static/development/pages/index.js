@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next-server/head */ "./node_modules/next-server/head.js");
 /* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_server_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Navbar */ "./components/Navbar.js");
-var _jsxFileName = "/Users/jesusarteaga/Projects/next-sample/components/Layout.js";
+var _jsxFileName = "/Users/scotty/Documents/Development/next-zeit-sample/components/Layout.js";
 
 
 
@@ -85,7 +85,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/jesusarteaga/Projects/next-sample/components/Navbar.js";
+var _jsxFileName = "/Users/scotty/Documents/Development/next-zeit-sample/components/Navbar.js";
 
 
 
@@ -200,7 +200,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/jesusarteaga/Projects/next-sample/components/Prices.js";
+var _jsxFileName = "/Users/scotty/Documents/Development/next-zeit-sample/components/Prices.js";
 
 
 //No need to bring React in Next
@@ -6674,10 +6674,10 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjesusarteaga%2FProjects%2Fnext-sample%2Fpages%2Findex.js!./":
-/*!********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjesusarteaga%2FProjects%2Fnext-sample%2Fpages%2Findex.js ***!
-  \********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fscotty%2FDocuments%2FDevelopment%2Fnext-zeit-sample%2Fpages%2Findex.js!./":
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fscotty%2FDocuments%2FDevelopment%2Fnext-zeit-sample%2Fpages%2Findex.js ***!
+  \**********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10929,7 +10929,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Prices__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Prices */ "./components/Prices.js");
 
 
-var _jsxFileName = "/Users/jesusarteaga/Projects/next-sample/pages/index.js";
+var _jsxFileName = "/Users/scotty/Documents/Development/next-zeit-sample/pages/index.js";
 
 
 
@@ -11012,13 +11012,13 @@ _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(f
 /***/ }),
 
 /***/ 1:
-/*!************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjesusarteaga%2FProjects%2Fnext-sample%2Fpages%2Findex.js ***!
-  \************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fscotty%2FDocuments%2FDevelopment%2Fnext-zeit-sample%2Fpages%2Findex.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjesusarteaga%2FProjects%2Fnext-sample%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjesusarteaga%2FProjects%2Fnext-sample%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fscotty%2FDocuments%2FDevelopment%2Fnext-zeit-sample%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fscotty%2FDocuments%2FDevelopment%2Fnext-zeit-sample%2Fpages%2Findex.js!./");
 
 
 /***/ }),
