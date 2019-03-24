@@ -1,16 +1,16 @@
-import { createContext, useState, useEffect } from "react";
+import { createContext, useState, useReducer, useEffect } from "react";
 
 export const CoinDeskContext = createContext({});
 
 export const CoinDeskProvider = ({ children }) => {
-  const [bpi, setBpi] = useState({});
+  const [currentPrice, setCurrentPrice] = useState({});
 
   const getCurrentPrice = async function() {
     const res = await fetch(
       "https://api.coindesk.com/v1/bpi/currentprice.json"
     );
     const data = await res.json();
-    setBpi(data.bpi);
+    setCurrentPrice({ ...data });
   };
 
   useEffect(() => {
@@ -18,7 +18,7 @@ export const CoinDeskProvider = ({ children }) => {
   }, []);
 
   return (
-    <CoinDeskContext.Provider value={{ bpi }}>
+    <CoinDeskContext.Provider value={{ ...currentPrice }}>
       {children}
     </CoinDeskContext.Provider>
   );
