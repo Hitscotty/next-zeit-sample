@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
-	target: "serverless"
+  target: "serverless"
 };
